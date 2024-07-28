@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(layout="wide", page_title="XSEED Player Performance Viewer")
 
 # Title of the app
-st.title("XSEED Player Performance Viewer")
+st.title("XSEED Player Performance Viewer.")
 
 # Upload CSV file for stats
 st.header("Upload CSV File for Stats")
